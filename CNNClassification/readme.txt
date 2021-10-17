@@ -1,1 +1,1 @@
-基于华为AI框架MindSpore，构建神经网络对CIFAR-10数据集中的测试集进行分类。
+基于华为AI框架MindSpore，构建神经网络对CIFAR-10数据集中的测试集进行分类。复现了经典网络结构—Lenet。
